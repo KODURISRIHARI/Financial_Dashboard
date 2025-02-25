@@ -22,3 +22,5 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 ## Link to the Dataset
 [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
+
+![1681706976122](https://github.com/KODURISRIHARI/Financial_Dashboard/blob/main/Financial_Dashboard_picture.png)
