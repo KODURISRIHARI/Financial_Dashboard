@@ -8,33 +8,33 @@ The dataset includes the following key columns:
 
 Segment: The market segment (e.g., Government) \
 Country: The country of sale (e.g., Canada) \
-Product: The product sold (e.g., Carretera)
-Discount Band: The discount applied (e.g., None)
-Units Sold: The number of units sold
-Manufacturing Price: The cost to manufacture the product
-Sale Price: The price at which the product was sold
-Gross Sales: Total sales before discounts
-Discounts: Total discounts applied
-Sales: Net sales after discounts
-COGS: Cost of Goods Sold
-Profit: Net profit
-Date: Date of the transaction
-Month Number: Numeric representation of the month
-Month Name: Name of the month
-Year: Year of the transaction
+Product: The product sold (e.g., Carretera) \
+Discount Band: The discount applied \
+Units Sold: The number of units sold \
+Manufacturing Price: The cost to manufacture the product \
+Sale Price: The price at which the product was sold \
+Gross Sales: Total sales before discounts \
+Discounts: Total discounts applied \
+Sales: Net sales after discounts \
+COGS: Cost of Goods Sold \
+Profit: Net profit \ 
+Date: Date of the transaction \
+Month Number: Numeric representation of the month \
+Month Name: Name of the month \
+Year: Year of the transaction \
 
-Problem Statement
+Problem Statement \
 The goal of this Power BI Dashboard is to analyze the financial performance of the company using the provided Microsoft Sample Data. The dashboard aims to create a visually appealing interface that provides an overview of the company's financial metrics, enabling stakeholders to make informed business decisions.
 
-Sections in the Report
+Sections in the Report \
 
-Data Slicing: Users can slice the report data by Segment, Country, and Year to focus on specific data points.
+Data Slicing: Users can slice the report data by Segment, Country, and Year to focus on specific data points. \
 
-Key Metrics Cards: The dashboard features cards displaying:
+Key Metrics Cards: The dashboard features cards displaying: \
 
-Total Units Sold
-Total Gross Sales
-Total Profit
+Total Units Sold \
+Total Gross Sales \
+Total Profit \
 
 Profit by Product: A bar chart represents the total profit per product, providing insights into which products are most profitable.
 
