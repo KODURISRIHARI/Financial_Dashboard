@@ -34,7 +34,7 @@ Key Metrics Cards: The dashboard features cards displaying: \
 
 Total Units Sold \
 Total Gross Sales \
-Total Profit \
+Total Profit 
 
 Profit by Product: A bar chart represents the total profit per product, providing insights into which products are most profitable.
 
