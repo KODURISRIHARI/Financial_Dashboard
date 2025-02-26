@@ -3,7 +3,7 @@
 Hello Everyone,
 I am excited to share the Finance Dashboard I created using Power BI, utilizing the Finance Excel Workbook provided by Microsoft. This dashboard is designed to analyze the financial performance of a company based on the dataset provided.
 
-Dataset Overview
+Dataset Overview :
 The dataset includes the following key columns:
 
 Segment: The market segment (e.g., Government) \
@@ -17,20 +17,21 @@ Gross Sales: Total sales before discounts \
 Discounts: Total discounts applied \
 Sales: Net sales after discounts \
 COGS: Cost of Goods Sold \
-Profit: Net profit \ 
+Profit: Net profit 
+
 Date: Date of the transaction \
 Month Number: Numeric representation of the month \
 Month Name: Name of the month \
-Year: Year of the transaction \
+Year: Year of the transaction 
 
 Problem Statement \
 The goal of this Power BI Dashboard is to analyze the financial performance of the company using the provided Microsoft Sample Data. The dashboard aims to create a visually appealing interface that provides an overview of the company's financial metrics, enabling stakeholders to make informed business decisions.
 
-Sections in the Report \
+Sections in the Report 
 
-Data Slicing: Users can slice the report data by Segment, Country, and Year to focus on specific data points. \
+Data Slicing: Users can slice the report data by Segment, Country, and Year to focus on specific data points. 
 
-Key Metrics Cards: The dashboard features cards displaying: \
+Key Metrics Cards: The dashboard features cards displaying: 
 
 Total Units Sold \
 Total Gross Sales \
