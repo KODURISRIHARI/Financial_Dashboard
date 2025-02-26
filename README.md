@@ -6,8 +6,8 @@ I am excited to share the Finance Dashboard I created using Power BI, utilizing 
 Dataset Overview
 The dataset includes the following key columns:
 
-Segment: The market segment (e.g., Government)
-Country: The country of sale (e.g., Canada)
+Segment: The market segment (e.g., Government) \
+Country: The country of sale (e.g., Canada) \
 Product: The product sold (e.g., Carretera)
 Discount Band: The discount applied (e.g., None)
 Units Sold: The number of units sold
