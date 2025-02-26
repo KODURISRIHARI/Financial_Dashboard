@@ -1,4 +1,4 @@
-#Financial Dashboard Overview
+# Financial Dashboard Overview
 
 Hello Everyone,
 I am excited to share the Finance Dashboard I created using Power BI, utilizing the Finance Excel Workbook provided by Microsoft. This dashboard is designed to analyze the financial performance of a company based on the dataset provided.
@@ -48,6 +48,11 @@ Units Sold by Segment: A pie chart visualizes the percentage of total units sold
 
 Units Sold by Segment and Country: A stacked bar chart that visualizes the  Average units solds per segment  with respect to country allowing stakeholders to see which segments contribute most to sales volume per country.
 
+
+## Link to the Dataset
+[Finance Report Dataset](https://github.com/KODURISRIHARI/Financial_Dashboard/blob/main/financial_data.csv)
+
+![1681706976122](https://github.com/KODURISRIHARI/Financial_Dashboard/blob/main/Financial_Dashboard_picture.png)
 
 Conclusion
 This Power BI Dashboard serves as a comprehensive tool for analyzing the financial performance of the company. By leveraging the provided dataset, stakeholders can gain valuable insights into sales trends, profitability, and market dynamics, ultimately aiding in strategic decision-making
